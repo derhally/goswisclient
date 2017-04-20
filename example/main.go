@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	"solarwinds.com/goswisclient/swis"
+	"github.com/derhally/goswisclient"
 )
 
 func main() {
